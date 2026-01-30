@@ -1,4 +1,4 @@
--- Enable readable output format
+ -- Enable readable output format
 .mode columns
 .headers on
 
