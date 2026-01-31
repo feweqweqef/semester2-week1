@@ -12,6 +12,7 @@ zip submission.zip *.sql
 ```
 This will create 'submission.zip' which you can download and submit - this will ensure your files are named correctly every time!
 
+
 ### Question 1
 
 List all students who enrolled in the year 2022.
